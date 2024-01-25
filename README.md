@@ -1,4 +1,6 @@
 ### Hi there 👋
+- This is Manikala
+- I am pursuing masters my masters in NorthWest Missouri State University
 
 <!--
 **cmanikala/cmanikala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
